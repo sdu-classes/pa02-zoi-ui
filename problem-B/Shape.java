@@ -38,7 +38,7 @@ public class pra2 {
 
 class Shape{
     private String color = "red";
-    private boolean filled;
+    private boolean filled = true;
     Shape(){}
     Shape(String color , boolean filled){
         this.color = color;
