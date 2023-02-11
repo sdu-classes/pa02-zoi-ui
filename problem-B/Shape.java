@@ -37,7 +37,7 @@ public class pra2 {
 }
 
 class Shape{
-    private String color;
+    private String color = "red";
     private boolean filled;
     Shape(){}
     Shape(String color , boolean filled){
