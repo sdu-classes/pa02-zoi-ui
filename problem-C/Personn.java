@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Stream;
 
-public class pra2 {
+public class Personn {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
